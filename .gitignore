@@ -2,3 +2,5 @@
 .idea/
 
 .DS_Store
+/python/venv/
+/java/out/
